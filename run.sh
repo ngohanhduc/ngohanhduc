@@ -1,7 +1,7 @@
 -#!/bin/bash
 
 # Gaganode
-GAGA_TOKEN="cfvsvbhgizffvhksa3ade4250b753862"
+GAGA_TOKEN="nlafurfpmsjoaska2ee39ed8ae2bf8cd"
 
 # Grass CLI
 GR_MAIL=""
